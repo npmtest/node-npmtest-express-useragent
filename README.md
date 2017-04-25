@@ -1,6 +1,7 @@
 # npmtest-express-useragent
 
-test coverage for  [express-useragent (v1.0.7)](https://github.com/biggora/express-useragent/)  [![npm package](https://img.shields.io/npm/v/npmtest-express-useragent.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-express-useragent) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-express-useragent.svg)](https://travis-ci.org/npmtest/node-npmtest-express-useragent)
+#### basic test coverage for  [express-useragent (v1.0.7)](https://github.com/biggora/express-useragent/)  [![npm package](https://img.shields.io/npm/v/npmtest-express-useragent.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-express-useragent) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-express-useragent.svg)](https://travis-ci.org/npmtest/node-npmtest-express-useragent)
+
 #### ExpressJS/Connect/TrinteJS user-agent middleware exposing
 
 [![NPM](https://nodei.co/npm/express-useragent.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/express-useragent)
@@ -9,7 +10,7 @@ test coverage for  [express-useragent (v1.0.7)](https://github.com/biggora/expre
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-express-useragent/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-express-useragent/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-express-useragent/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-express-useragent/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-express-useragent/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-express-useragent/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-express-useragent/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-express-useragent/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-express-useragent/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-express-useragent/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-express-useragent/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-express-useragent/build/coverage.html/index.html)
 
@@ -125,7 +126,8 @@ test coverage for  [express-useragent (v1.0.7)](https://github.com/biggora/expre
         "lint": "make lint",
         "test": "nodeunit test/browsers.js test/bots_test.js"
     },
-    "version": "1.0.7"
+    "version": "1.0.7",
+    "bin": {}
 }
 ```
 

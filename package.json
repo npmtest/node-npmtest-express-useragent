@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for  [express-useragent (v1.0.7)](https://github.com/biggora/express-useragent/)  [![npm package](https://img.shields.io/npm/v/npmtest-express-useragent.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-express-useragent) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-express-useragent.svg)](https://travis-ci.org/npmtest/node-npmtest-express-useragent)",
+    "description": "#### basic test coverage for  [express-useragent (v1.0.7)](https://github.com/biggora/express-useragent/)  [![npm package](https://img.shields.io/npm/v/npmtest-express-useragent.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-express-useragent) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-express-useragent.svg)](https://travis-ci.org/npmtest/node-npmtest-express-useragent)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "express-useragent": "*",
